@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @Abdulbasit-O
-- Im just starting out in cloud and currently learning the basics of cloud support engineering.
-- 👀 I’m interested in Cloud Support Engineering
-- 🌱 I’m currently learning and building my skills in cloud support and problem solving 
-- 💞️ I’m looking to collaborate on learning,projects,volunteer and anyhting beneficial to my carreer path
-- 📫 How to reach me whatsapp;+2347061486198 IG;Basit_himself Linkeldn;Abdulbasit Oladimeji Gmail;Oladimejiabdulbasit247@gmail.com
-- 😄 Pronouns:HE
-- ⚡ Fun fact: Im self learning,im open to mentorship and friends in the community
+Hi im Abdulbasit Oladimeji
+
+Linux · Cloud Infrastructure · DevOps
+
+I get hands-on with systems — setting up servers, debugging what breaks, and automating what shouldn't be manual.My focus is on understanding how things 
+actually work in production, not just in theory.
+
+Currently building projects around deployment pipelines, 
+containerized environments, and system monitoring.
+
+**Stack:** Linux · Bash · Git · Docker · Networking · CI/CD · Cloud Platforms
+
+📧 oladimejiabdulbasit247@gmail.com
   
 
 <!---
