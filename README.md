@@ -2,7 +2,7 @@ Hi im Abdulbasit Oladimeji
 
 Linux · Cloud Infrastructure · DevOps
 
-I get hands-on with systems — setting up servers, debugging what breaks, and automating what shouldn't be manual.My focus is on understanding how things 
+I get hands-on with systems setting up servers, debugging what breaks, and automating what shouldn't be manual.My focus is on understanding how things 
 actually work in production, not just in theory.
 
 Currently building projects around deployment pipelines, 
